@@ -1,0 +1,7 @@
+flask
+pandas
+numpy
+tldextract
+Levenshtein
+base64
+requests

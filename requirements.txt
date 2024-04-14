@@ -5,3 +5,4 @@ tldextract
 Levenshtein
 requests
 scikit-learn
+flask-cors

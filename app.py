@@ -175,7 +175,3 @@ def index():
 def test():
     return "Hello World"
    
-
-if __name__ == '__main__':
-    # app.run(host="172.28.241.21")
-    app.run(port=10000)

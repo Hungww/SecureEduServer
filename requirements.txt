@@ -4,3 +4,4 @@ numpy
 tldextract
 Levenshtein
 requests
+scikit-learn

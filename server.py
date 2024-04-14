@@ -177,4 +177,5 @@ def test():
    
 
 if __name__ == '__main__':
-    app.run(host="172.28.241.21")
+    # app.run(host="172.28.241.21")
+    app.run()
